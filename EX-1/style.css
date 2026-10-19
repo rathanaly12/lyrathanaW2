@@ -1,0 +1,53 @@
+body {
+    background: grey;
+    font-family: sans-serif;
+}
+body{
+    padding: 10px 100px 10px 100px;
+
+}
+#first{
+    padding:20px 10px 20px 10px;
+    background-color: white;
+    border-radius: 10px;
+    border-color: black;
+    margin-bottom: 30px;
+}
+#second{
+    padding:20px 10px 20px 10px;
+    background-color: white;
+    border-radius: 10px;
+    border-color: black;
+    margin-bottom: 30px;
+}
+#third{
+    padding:20px 10px 20px 10px;
+    background-color: white;
+    border-radius: 10px;
+    border-color: black;
+    margin-bottom: 30px;
+}
+#one{
+    background-color: aqua;
+    border-radius: 30px;
+    
+}
+#one:hover{
+        background-color: red;
+}
+#two{
+    background-color: rgb(187, 255, 0);
+    border-radius: 30px;
+    
+}
+#two:hover{
+        background-color: red;
+}
+#three{
+    background-color: rgb(67, 39, 207);
+    border-radius: 30px;
+    
+}
+#three:hover{
+        background-color: red;
+}
