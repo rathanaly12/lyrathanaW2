@@ -68,4 +68,7 @@ h2{
     font-size: 18px;
     color:gray
 }
-
+button:hover{
+    background-color: gray;
+    color: white;
+}
